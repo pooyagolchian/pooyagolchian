@@ -8,5 +8,5 @@ I'm Software Engineer and  Web Developer. I've master's degree in software engin
 - 📫 How to reach me: pooya.golchian@gmail.com | @icoder on Telegram | +989306016111 on WhatsApp
 - ✨ pronouns: He/Him
 - ⚡ Fun fact: Running 🏃‍, Bodybuilding and Fitness💪🏻
-- My personal blog about technology and technical articles https://pooyagolchian.github.io
+- My personal blog about technology and technical articles https://pooyagolchian.github.io 
 
