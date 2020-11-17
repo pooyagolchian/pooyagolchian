@@ -1,6 +1,6 @@
 ### Hi there! I'm Pooya Golchian. 👋
 I'm Software Engineer and  Web Developer. I've master's degree in software engineering.
-- 🔭  I’m currently working on Haftcin.com (Yiata.com & Get3000.com). Fullstack javascript engineer and DevOps
+- 🔭  I’m currently working on Haftcin.com [Haft-sin]. Fullstack javascript engineer and DevOps
 - 🌱  I’m currently learning Express.js, ArangoDB, mongoDB (Fullstack javscript engineer)
 - 👯  I’m looking to collaborate on javscript project like Vue.js, Nuxt.js, React.js 
 - 🤔  I’m looking for start new opensource project and idea base on Javscript and Vue.js framework
