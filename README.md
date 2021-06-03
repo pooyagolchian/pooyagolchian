@@ -4,4 +4,5 @@ I am a frontend developer who curious about clean code. I am so enthusiastic abo
 
 - Telegram: @icoder
 - Gmail: pooya.golchian
+- CV: pooyagolchian.ir/cv
 
