@@ -1,10 +1,7 @@
-### Hi there! I'm Pooya Golchian. 👋
-I'm Software Engineer and  Web Developer. I've master's degree in software engineering.
-- 🔭  I’m currently working on Haftcin.com [Haft-sin]. Frontend engineer and DevOps.
-- 🌱  I’m currently learning Express.js, mongoDB
-- 👯  I’m looking to collaborate on javscript project like Vue.js, Nuxt.js.
-- 🤔  I’m looking for start new opensource project and idea base on Javscript, React.js and, Vue.js
-- 💬  Ask me about Javascript. Start the opensource project base on Vue.js (Nuxt.js) framework, DevOps (Docker, Jenkins, etc ...)
-- 📫  How to reach me: 📨 pooya.golchian@gmail.com | 💬 @icoder on Telegram 
-- 🌎  My personal blog about technology and technical articles https://pooyagolchian.github.io 
+### Pooya Golchian
+
+I am a frontend developer who curious about clean code. I am so enthusiastic about javascript and frontend technology. I have good knowledge of Linux and Operating systems. One of my hubbies is open-source contributing and use them in the application. I love Vue.js and React.js. I worked as a Vue.js developer for 3 years and a React.js developer for 1 year. I learned a React.js new feature like React Hook, etc. I want to work with a team that beliefs in clean code and test. I am a fast learner and curious about high-tech stuff. I've been worked as a web developer since 2012. My first struggle in this field is related to Drupal.
+
+- Telegram: @icoder
+- Gmail: pooya.golchian
 
