@@ -7,9 +7,9 @@ Currently, I work in Azkivam.com that which works in the lend-tech business. I d
 
 My contact information is below. 
 
-- Telegram: @icoder
+- Telegram: https://t.me/icoder
 - Gmail: pooya.golchian@gmail.com
-- https://dev.to/pooyagolchian
+- Website: https://dev.to/pooyagolchian
 - CV: https://pooyagolchian.com/cv
 
 
