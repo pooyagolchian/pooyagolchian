@@ -4,13 +4,14 @@ I am a front-end developer. I have a master's degree in Software Engineering. I 
 Currently, I work in Azkivam.com that which works in the lend-tech business. I developed our application with Vue.js and Nuxt.js.
 
 | Company                          | Project                                                                            | Technology                 |
-| :------------------------------- | :--------------------------------------------------------------------------------- | -------------------------- |
+| :------------------------------- | :--------------------------------------------------------------------------------- | :------------------------- |
 | `Afra Sarmeye Digital`           | [azkivam.com](https://azkivam.com/) [panel.azkivam.com](https://panel.azkiva.com/) | Vue.js, Nuxt.js            |
 | `Haftcin`                        | [yiata.com](https://azkivam.com/) [get3000.com](https://get3000.com/)              | Vue.js                     |
 | `Iman Sarmaye Noavaran Iranian ` | [azki.com](https://azki.com/)                                                      | Vue.js, Jquery             |
 | `Entekhab Holding `              | `Build local enterprise application `                                              | Vue.js, React.js           |
 | `Dadeban Samaneh`                | [axprint.com](https://axprint.com/) [axprint.com](https://pamp.com/)               | Javascript, Jquery         |
 | `Rayvarz`                        | [rayvarz.com](https://rayvarz.com/) [bpms.rayvarz.com](https://bpms.com/)          | Drupal, Jquery, Javascript |
+
 
 
 
