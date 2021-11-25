@@ -10,7 +10,7 @@ My contact information is below.
 - Telegram: @icoder
 - Gmail: pooya.golchian@gmail.com
 - https://dev.to/pooyagolchian
-- CV: pooyagolchian.com/cv
+- CV: https://pooyagolchian.com/cv
 
 
 Social link:
