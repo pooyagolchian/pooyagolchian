@@ -1,8 +1,22 @@
 ### Pooya Golchian
 
-I am a frontend developer who is curious about clean code. I am so enthusiastic about javascript and frontend technology. I have good knowledge of Linux and Operating systems. One of my hubbies is open-source contributing and use them in the application. I love Vue.js and React.js. I worked as a Vue.js developer for 3 years and a React.js developer for 1 year. I learned a React.js new feature like React Hook, etc. I want to work with a team that beliefs in clean code and test. I am a fast learner and curious about high-tech stuff. I've been worked as a web developer since 2012. My first struggle in this field is related to Drupal.
+I am a front-end developer. I have a master's degree in Software Engineering. I worked with lots of startup and enterprise companies.  I am an attention to detail and pixel-perfect front-end developer. I love blogging and contributing to open-source projects. I have good experience in front-end architecture projects that work withVue.js and React.js. I have been working as a web developer since 2012 till now. I love other stuff in development like DevOps and back-end. I chose javascript for my career for both sides of development.
+
+Currently, I work in Azkivam.com that which works in the lend-tech business. I developed our application with Vue.js and Nuxt.js.
+
+
+My contact information is below. 
 
 - Telegram: @icoder
-- Gmail: pooya.golchian
+- Gmail: pooya.golchian@gmail.com
+- https://dev.to/pooyagolchian
 - CV: pooyagolchian.com/cv
+
+
+Social link:
+
+- https://www.linkedin.com/in/pooyagolchian/
+- https://dribbble.com/pooyagolchian
+- https://pooyagolchian.com/
+- https://stackoverflow.com/users/2257357/pooya-golchian
 
