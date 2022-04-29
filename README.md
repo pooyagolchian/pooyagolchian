@@ -1,7 +1,8 @@
 ### Pooya Golchian
 
-I am a front-end developer. I have a master's degree in Software Engineering. I worked with lots of startup and enterprise companies.  I am an attention to detail and pixel-perfect front-end developer. I love blogging and contributing to open-source projects. I have good experience in front-end architecture projects that work withVue.js and React.js. I work as a web developer since 2012. I love other stuff in development like DevOps and back-end. I chose javascript for my career for both sides of development.
-Currently, I work in Azkivam.com that which works in the lend-tech business. I developed our application with Vue.js and Nuxt.js.
+I got my master's and bachelor's degrees in Software Engineering. I have +10 years of experience in web development. I have acquired a lot of experience in development as a front-end developer. Moreover, I have managed a small frontend team and do daily routine tasks like helping other developers and code reviewing.
+My favorite stack in the frontend is React.js and Vue.js. I have developed a lot of SSR applications with Next.js and Nux.t.js.
+Problem-solving, communication, and leadership that other skills I have been developing in 5 recent years. You can visit more information below.
 
 
 My contact information is below. 
