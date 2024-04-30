@@ -23,12 +23,6 @@ With over a decade of experience in **frontend** and **full stack development**,
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pooyagolchian&theme=react)](https://git.io/streak-stats)
 
----
-
-![Profile View](https://hit.yhype.me/github/profile?user_id=8122611)
-
----
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -47,3 +41,5 @@ With over a decade of experience in **frontend** and **full stack development**,
 - <https://pooya.blog>
 - <https://stackoverflow.com/users/2257357/pooya-golchian>
 - <https://dev.to/pooyagolchian>
+
+![Profile View](https://hit.yhype.me/github/profile?user_id=8122611)
