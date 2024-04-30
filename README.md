@@ -2,6 +2,7 @@
 
 With over a decade of experience in **frontend** and **full stack development**, I have perfected my skills in creating high-performance web applications that surpass business expectations. My expertise primarily focuses on utilizing technologies such as **React.js, Vue.js, and Nest.js** to deliver accessible and effective solutions. Throughout my career, I have led pivotal projects and demonstrated my ability to propel innovation and achieve outcomes that align with strategic business objectives. I am currently open to exploring new opportunities to bring my technical skills and leadership to new and challenging environments.
 
+--- 
 
 <picture>
   <source
@@ -15,6 +16,13 @@ With over a decade of experience in **frontend** and **full stack development**,
   <img src="https://github-readme-stats.vercel.app/api?username=pooyagolchian&show_icons=true" />
 </picture>
 
+---
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pooyagolchian&theme=react)](https://git.io/streak-stats)
+
+
+---
 
 ![](https://hit.yhype.me/github/profile?user_id=8122611)
 
