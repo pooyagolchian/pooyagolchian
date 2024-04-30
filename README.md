@@ -27,7 +27,3 @@ With over a decade of experience in **frontend** and **full stack development**,
 - https://stackoverflow.com/users/2257357/pooya-golchian
 - https://dev.to/pooyagolchian
 
-
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/gautamkrishnar/blog-post-workflow.svg?variant=dark)](https://starchart.cc/gautamkrishnar/blog-post-workflow)
-
