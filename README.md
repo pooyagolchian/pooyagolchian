@@ -24,7 +24,7 @@ With over a decade of experience in **frontend** and **full stack development**,
 
 ---
 
-![](https://hit.yhype.me/github/profile?user_id=8122611)
+![Profile View](https://hit.yhype.me/github/profile?user_id=8122611)
 
 - Telegram: https://t.me/icoder
 - Gmail: pooya.golchian@gmail.com | info@pooya.blog
