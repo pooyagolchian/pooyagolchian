@@ -26,7 +26,11 @@ With over a decade of experience in **frontend** and **full stack development**,
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Improving Next.js website performance and get a 100% rate of optimization from Lighthouse on desktop and mobile](https://dev.to/pooyagolchian/improve-nextjs-website-performance-and-get-a-100-rate-of-optimization-from-lighthouse-on-desktop-and-mobile-1bf4)
+- [How to pull the AWS ECR docker image and extract all things in the docker image?](https://dev.to/pooyagolchian/how-to-pull-the-aws-ecr-docker-image-and-extract-all-things-in-the-docker-image-4ioo)
+- [How to pull the AWS ECR docker image and extract all things in the docker image?](https://pooya.blog/posts/aws-ecr-pull-and-extract/)
+- [Vue.js multiple theme with css variable](https://pooya.blog/posts/vue-multiple-theme/)
+- [Configure Firebase Cloud Messaging &lpar;FCM&rpar;](https://dev.to/pooyagolchian/configure-firebase-cloud-messaging-fcm-4ikc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
