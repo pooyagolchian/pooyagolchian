@@ -42,6 +42,7 @@ With over a decade of experience in **frontend** and **full stack development**,
 ![Profile View](https://hit.yhype.me/github/profile?user_id=8122611)
 
 ---
+<div style="display:flex; flex-direction: row">
 <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="50" style="display:inline-block" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"  style="display:inline-block" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50"  style="display:inline-block" />
@@ -55,3 +56,4 @@ With over a decade of experience in **frontend** and **full stack development**,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50" style="display:inline-block"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" style="display:inline-block" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="50" style="display:inline-block"/>
+</div>
