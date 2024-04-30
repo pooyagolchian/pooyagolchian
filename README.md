@@ -16,7 +16,7 @@ With over a decade of experience in **frontend** and **full stack development**,
 
 ---
 
-## Pooya Golchian Blog posts
+## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to pull the AWS ECR docker image and extract all things in the docker image?](https://pooya.blog/posts/aws-ecr-pull-and-extract/)
