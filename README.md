@@ -34,7 +34,7 @@ With over a decade of experience in front-end development, I've developed high-p
 
 - [Telegram ID](https://t.me/icoder)
 - [Visit My Website](https://pooya.blog)
-- 📩 [Gmail](mailto:pooya.golchian@gmail.com) | [Info Email](mailto:info@pooya.blog)
+- [Gmail](mailto:pooya.golchian@gmail.com) | [Info Email](mailto:info@pooya.blog)
 - [DEV Community Profile](https://dev.to/pooyagolchian)
 - [LinkedIn](https://www.linkedin.com/in/pooyagolchian/)
 - [Dribbble](https://dribbble.com/pooyagolchian)
