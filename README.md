@@ -22,10 +22,10 @@ With over a decade of experience in front-end development, I've developed high-p
 
 <!-- BLOG-POST-LIST:START -->
 - [Guide to Pulling and Accessing Contents of AWS ECR Docker Images](https://pooya.blog/posts/aws-ecr-pull-and-extract/)
-- [Vue.js multiple theme with css variable](https://pooya.blog/posts/vue-multiple-theme/)
+- [Implementing Multiple Themes in Vue.js with CSS Variables](https://pooya.blog/posts/vue-multiple-theme/)
 - [Comprehensive Guide: Installing, Configuring, and Managing ArangoDB Backups on AWS](https://pooya.blog/posts/arangodb-devops/)
-- [Build poor mans VPN with SSH and Bitvise](https://pooya.blog/posts/ssh-tunnel/)
-- [Configure Firebase Cloud Messaging &lpar;FCM&rpar;](https://pooya.blog/posts/configure-fcm/)
+- [How to Set Up a &quot;Poor Man VPN&quot; Using SSH and Bitvise](https://pooya.blog/posts/ssh-tunnel/)
+- [Configuring Firebase Cloud Messaging &lpar;FCM&rpar; for Vue.js Applications](https://pooya.blog/posts/configure-fcm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
