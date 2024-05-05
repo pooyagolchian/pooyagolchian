@@ -21,9 +21,9 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
-- [How to pull the AWS ECR docker image and extract all things in the docker image?](https://pooya.blog/posts/aws-ecr-pull-and-extract/)
+- [Guide to Pulling and Accessing Contents of AWS ECR Docker Images](https://pooya.blog/posts/aws-ecr-pull-and-extract/)
 - [Vue.js multiple theme with css variable](https://pooya.blog/posts/vue-multiple-theme/)
-- [Arangodb install last version and configuration and backup and restore from Amazon AWS](https://pooya.blog/posts/arangodb-devops/)
+- [Comprehensive Guide: Installing, Configuring, and Managing ArangoDB Backups on AWS](https://pooya.blog/posts/arangodb-devops/)
 - [Build poor mans VPN with SSH and Bitvise](https://pooya.blog/posts/ssh-tunnel/)
 - [Configure Firebase Cloud Messaging &lpar;FCM&rpar;](https://pooya.blog/posts/configure-fcm/)
 <!-- BLOG-POST-LIST:END -->
