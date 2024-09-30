@@ -23,7 +23,7 @@ With over a decade of experience in front-end development, I've developed high-p
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing useEffect with useCallback in React: A Guide for Developers](https://pooya.blog/posts/optimize-useeffect-usecallback-react/)
 - [Detailed Comparison of Next.js, Astro, and Remix](https://pooya.blog/posts/boost-your-online-presence-expert-website-development-and-consultancy/)
-- [Understanding the Williams Alligator Indicator: A Comprehensive Guide for Traders](https://pooya.blog/posts/alligator-indicator/)
+- [Understanding the Williams Alligator Indicator: A Comprehensive Guide for Traders](https://pooya.blog/posts/williams-alligator-indicator/)
 - [Guide to Pulling and Accessing Contents of AWS ECR Docker Images](https://pooya.blog/posts/aws-ecr-pull-and-extract/)
 - [Implementing Multiple Themes in Vue.js with CSS Variables](https://pooya.blog/posts/vue-multiple-theme/)
 <!-- BLOG-POST-LIST:END -->
