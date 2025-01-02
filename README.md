@@ -10,8 +10,7 @@ With over a decade of experience in front-end development, I've developed high-p
 ---
 
 <div style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=pooyagolchian&show_icons=true&theme=dark" style="width: 50%; margin-right: 20px" />
-  <img src="https://streak-stats.demolab.com?user=pooyagolchian&theme=react" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pooyagolchian&show_icons=true&theme=light" style="width: 50%; margin-right: 20px" />
 </div>
 
 ---
