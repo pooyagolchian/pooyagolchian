@@ -9,12 +9,6 @@ With over a decade of experience in front-end development, I've developed high-p
 
 ---
 
-<div style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=pooyagolchian&show_icons=true&theme=light" style="width: 50%; margin-right: 20px" />
-</div>
-
----
-
 ## Blog posts
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
