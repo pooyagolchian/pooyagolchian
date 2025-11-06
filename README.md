@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing useEffect with useCallback in React: A Guide for Developers](https://pooya.blog/posts/optimize-useeffect-usecallback-react/)
-- [Detailed Comparison of Next.js, Astro, and Remix](https://pooya.blog/posts/boost-your-online-presence-expert-website-development-and-consultancy/)
-- [Understanding the Williams Alligator Indicator: A Comprehensive Guide for Traders](https://pooya.blog/posts/williams-alligator-indicator/)
-- [Guide to Pulling and Accessing Contents of AWS ECR Docker Images](https://pooya.blog/posts/aws-ecr-pull-and-extract/)
-- [Implementing Multiple Themes in Vue.js with CSS Variables](https://pooya.blog/posts/vue-multiple-theme/)
+- [Navigating the Shifting Landscape: Key Insights from the WEF Future of Jobs Report 2025](https://pooya.blog/blog/navigating-the-shifting-landscape-wef-jobs-report-2025)
+- [Optimizing useEffect with useCallback in React: A Guide for Developers](https://pooya.blog/blog/optimize-useeffect-usecallback-react)
+- [Detailed Comparison of Next.js, Astro, and Remix](https://pooya.blog/blog/boost-your-online-presence-expert-website-development-and-consultancy)
+- [Guide to Pulling and Accessing Contents of AWS ECR Docker Images](https://pooya.blog/blog/aws-ecr-pull-and-extract)
+- [Implementing Multiple Themes in Vue.js with CSS Variables](https://pooya.blog/blog/vue-multiple-theme)
 <!-- BLOG-POST-LIST:END -->
 
 ---
