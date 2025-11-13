@@ -14,7 +14,7 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Headless CMS: The Future of Content Management](https://pooya.blog/blog/headless-cms-consultancy)
+- [The 2025 Headless CMS Market: A Deep-Dive Analysis of Payload, Strapi, Sanity, and the New AI-Driven Composable Era](https://pooya.blog/blog/headless-cms-consultancy)
 - [Navigating the Shifting Landscape: Key Insights from the WEF Future of Jobs Report 2025](https://pooya.blog/blog/navigating-the-shifting-landscape-wef-jobs-report-2025)
 - [Optimizing useEffect with useCallback in React: A Guide for Developers](https://pooya.blog/blog/optimize-useeffect-usecallback-react)
 - [Detailed Comparison of Next.js, Astro, and Remix](https://pooya.blog/blog/boost-your-online-presence-expert-website-development-and-consultancy)
