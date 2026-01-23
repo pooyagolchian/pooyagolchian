@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [The CEO&#39;s Guide to Private AI &amp; Data Sovereignty in Dubai &lpar;2026&rpar;](https://pooya.blog/blog/dubai-private-ai)
 - [2025 Headless CMS Guide: Payload vs Strapi vs Sanity](https://pooya.blog/blog/headless-cms-consultancy)
 - [WEF Future of Jobs 2025: Key Insights &amp; Trends](https://pooya.blog/blog/navigating-the-shifting-landscape-wef-jobs-report-2025)
 - [React Performance: useEffect &amp; useCallback Guide](https://pooya.blog/blog/optimize-useeffect-usecallback-react)
 - [Detailed Comparison of Next.js, Astro, and Remix](https://pooya.blog/blog/boost-your-online-presence-expert-website-development-and-consultancy)
-- [AWS ECR: Pull &amp; Extract Docker Image Contents](https://pooya.blog/blog/aws-ecr-pull-and-extract)
 <!-- BLOG-POST-LIST:END -->
 
 ---
