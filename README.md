@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [dirham: The UAE Dirham Symbol &lpar;U+20C3&rpar; as Web Font, CSS Utility &amp; React Component](https://pooya.blog/blog/dirham)
+- [scss-helper v5: A Modern SCSS Utility Toolkit for Tailwind&#39;s Gaps](https://pooya.blog/blog/scss-helper)
+- [vue-multiple-themes v4: Dynamic Multi-Theme Support for Vue 2 &amp; 3](https://pooya.blog/blog/vue-multiple-themes)
+- [vue-star-rate: Zero-Dependency Vue 3.5+ Star Rating Component](https://pooya.blog/blog/vue-star-rate)
 - [The CEO&#39;s Guide to Private AI &amp; Data Sovereignty in Dubai &lpar;2026&rpar;](https://pooya.blog/blog/dubai-private-ai)
-- [2025 Headless CMS Guide: Payload vs Strapi vs Sanity](https://pooya.blog/blog/headless-cms-consultancy)
-- [WEF Future of Jobs 2025: Key Insights &amp; Trends](https://pooya.blog/blog/navigating-the-shifting-landscape-wef-jobs-report-2025)
-- [Prevent Unnecessary React Effects with Memoized Functions](https://pooya.blog/blog/optimize-useeffect-usecallback-react)
-- [Detailed Comparison of Next.js, Astro, and Remix](https://pooya.blog/blog/boost-your-online-presence-expert-website-development-and-consultancy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
