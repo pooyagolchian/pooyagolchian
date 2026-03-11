@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of AI Prediction: Uncertainty Quantification, Monte Carlo Methods &amp; Statistical Mathematics](https://pooya.blog/blog/future-ai-prediction-uncertainty-monte-carlo)
 - [use-local-llm: React Hooks for AI That Actually Work Locally](https://pooya.blog/blog/use-local-llm)
 - [AI and Jobs: What Anthropic&#39;s Labor Market Data Actually Shows About Your Career](https://pooya.blog/blog/anthropic-ai-labor-market-impacts)
 - [dirham: The UAE Dirham Symbol &lpar;U+20C3&rpar; as Web Font, CSS Utility &amp; React Component](https://pooya.blog/blog/dirham)
 - [scss-helper v5: A Modern SCSS Utility Toolkit for Tailwind&#39;s Gaps](https://pooya.blog/blog/scss-helper)
-- [vue-multiple-themes v4: Dynamic Multi-Theme Support for Vue 2 &amp; 3](https://pooya.blog/blog/vue-multiple-themes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
