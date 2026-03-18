@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [RevOps AI: Build Your Entire Sales Team on Notion with Gemini and MCP](https://pooya.blog/blog/ai-sales-crm-notion-revops)
 - [Build an AI Team in Dubai: Recruitment, Structure, and Training for 2026](https://pooya.blog/blog/build-ai-team-dubai)
 - [Data-Driven Email Marketing in Dubai: Personalized Campaigns That Convert](https://pooya.blog/blog/data-driven-email-marketing-dubai)
 - [Financial Markets Under Uncertainty: Gold, Silver &amp; Crypto Analysis with Monte Carlo Predictions](https://pooya.blog/blog/financial-analysis-gold-silver-crypto-uncertainty)
 - [The Future of AI Prediction: Uncertainty Quantification, Monte Carlo Methods &amp; Statistical Mathematics](https://pooya.blog/blog/future-ai-prediction-uncertainty-monte-carlo)
-- [MarTech, CRM, and Landing Pages in Dubai: Your Growth Stack Engineered](https://pooya.blog/blog/martech-crm-landing-pages-dubai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
