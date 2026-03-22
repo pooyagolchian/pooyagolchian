@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP in 2026: The Protocol That Replaced Every AI Tool Integration](https://pooya.blog/blog/mcp-model-context-protocol-production-2026)
+- [AI Agents in 2026: LangGraph vs CrewAI vs Smolagents with Real Benchmarks on Local LLMs](https://pooya.blog/blog/ai-agents-frameworks-local-llm-2026)
 - [RevOps AI: Build Your Entire Sales Team on Notion with Gemini and MCP](https://pooya.blog/blog/ai-sales-crm-notion-revops)
+- [Local AI in 2026: Ollama Benchmarks, $0 Inference, and the End of Per-Token Pricing](https://pooya.blog/blog/local-ai-ollama-benchmarks-cost-2026)
 - [Build an AI Team in Dubai: Recruitment, Structure, and Training for 2026](https://pooya.blog/blog/build-ai-team-dubai)
-- [Data-Driven Email Marketing in Dubai: Personalized Campaigns That Convert](https://pooya.blog/blog/data-driven-email-marketing-dubai)
-- [Financial Markets Under Uncertainty: Gold, Silver &amp; Crypto Analysis with Monte Carlo Predictions](https://pooya.blog/blog/financial-analysis-gold-silver-crypto-uncertainty)
-- [The Future of AI Prediction: Uncertainty Quantification, Monte Carlo Methods &amp; Statistical Mathematics](https://pooya.blog/blog/future-ai-prediction-uncertainty-monte-carlo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
