@@ -15,10 +15,10 @@ With over a decade of experience in front-end development, I've developed high-p
 
 <!-- BLOG-POST-LIST:START -->
 - [MCP in 2026: The Protocol That Replaced Every AI Tool Integration](https://pooya.blog/blog/mcp-model-context-protocol-production-2026)
+- [Self-Hosting AI in 2026: 55% TCO Reduction, 18ms Latency, and the Open Source Stack That Replaces Cloud APIs](https://pooya.blog/blog/self-hosting-ai-infrastructure-open-source-2026)
 - [AI Agents in 2026: LangGraph vs CrewAI vs Smolagents with Real Benchmarks on Local LLMs](https://pooya.blog/blog/ai-agents-frameworks-local-llm-2026)
 - [RevOps AI: Build Your Entire Sales Team on Notion with Gemini and MCP](https://pooya.blog/blog/ai-sales-crm-notion-revops)
-- [Local AI in 2026: Ollama Benchmarks, $0 Inference, and the End of Per-Token Pricing](https://pooya.blog/blog/local-ai-ollama-benchmarks-cost-2026)
-- [Build an AI Team in Dubai: Recruitment, Structure, and Training for 2026](https://pooya.blog/blog/build-ai-team-dubai)
+- [RAG Pipelines in Production: Vector Database Benchmarks, Chunking Strategies, and Hybrid Search Data](https://pooya.blog/blog/rag-pipelines-production-vector-databases-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
