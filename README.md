@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Gold Crashes Below $4,350: $1.5 Trillion Wipeout Analyzed with Monte Carlo and Bayesian Methods](https://pooya.blog/blog/gold-crash-1-5-trillion-wipeout-analysis-2026)
 - [MCP in 2026: The Protocol That Replaced Every AI Tool Integration](https://pooya.blog/blog/mcp-model-context-protocol-production-2026)
 - [AI Reasoning Systems and the Theory of Mind Breakthrough](https://pooya.blog/blog/ai-reasoning-systems-theory-of-mind-2026)
 - [Self-Hosting AI in 2026: 55% TCO Reduction, 18ms Latency, and the Open Source Stack That Replaces Cloud APIs](https://pooya.blog/blog/self-hosting-ai-infrastructure-open-source-2026)
 - [AI Agents in 2026: LangGraph vs CrewAI vs Smolagents with Real Benchmarks on Local LLMs](https://pooya.blog/blog/ai-agents-frameworks-local-llm-2026)
-- [RevOps AI: Build Your Entire Sales Team on Notion with Gemini and MCP](https://pooya.blog/blog/ai-sales-crm-notion-revops)
 <!-- BLOG-POST-LIST:END -->
 
 ---
