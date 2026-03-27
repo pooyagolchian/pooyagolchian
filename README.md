@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [HyperAgents: Self-Referential AI That Rewrites Its Own Code](https://pooya.blog/blog/hyperagents-self-improving-ai-meta-research-2026)
+- [The $500 GPU That Outperforms Claude Sonnet on Coding Benchmarks](https://pooya.blog/blog/500-gpu-beats-claude-sonnet-coding-benchmarks-2026)
+- [Inside the .claude/ Folder: How Claude Code Organizes Your AI Workspace](https://pooya.blog/blog/claude-code-workspace-folder-structure-2026)
 - [Claude and the New Developer: How AI Is Reshaping Coding Skills in 2026](https://pooya.blog/blog/claude-ai-developer-skills-trends-2026)
 - [GitHub Copilot with Ollama: Agentic AI Models Running Locally in Your IDE](https://pooya.blog/blog/github-copilot-ollama-agentic-local-llm-2026)
-- [State of the Product Job Market in Early 2026](https://pooya.blog/blog/state-product-job-market-early-2026)
-- [The UAE Dirham Currency Symbol &lpar;U+20C3&rpar;: Why It Took 18 Years and How to Use It Today](https://pooya.blog/blog/dirham-1-3-0)
-- [Gold Crashes Below $4,350: $1.5 Trillion Wipeout Analyzed with Monte Carlo and Bayesian Methods](https://pooya.blog/blog/gold-crash-1-5-trillion-wipeout-analysis-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
