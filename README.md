@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
-- [HyperAgents: Self-Referential AI That Rewrites Its Own Code](https://pooya.blog/blog/hyperagents-self-improving-ai-meta-research-2026)
-- [The $500 GPU That Outperforms Claude Sonnet on Coding Benchmarks](https://pooya.blog/blog/500-gpu-beats-claude-sonnet-coding-benchmarks-2026)
-- [Inside the .claude/ Folder: How Claude Code Organizes Your AI Workspace](https://pooya.blog/blog/claude-code-workspace-folder-structure-2026)
-- [Claude and the New Developer: How AI Is Reshaping Coding Skills in 2026](https://pooya.blog/blog/claude-ai-developer-skills-trends-2026)
-- [GitHub Copilot with Ollama: Agentic AI Models Running Locally in Your IDE](https://pooya.blog/blog/github-copilot-ollama-agentic-local-llm-2026)
+- [Anthropic&#39;s $100M Partner Network: Building the Claude Ecosystem 2026](https://pooya.blog/blog/anthropic-claude-partner-network-100m-2026)
+- [Claude Opus 4.6 vs GPT-5.3-Codex: The State of Frontier AI Models in April 2026](https://pooya.blog/blog/claude-opus-4-6-vs-gpt-5-3-codex-2026)
+- [Gemini 2.0 vs GPT-5 vs Claude 4: The Spring 2026 AI Model Rankings](https://pooya.blog/blog/gemini-2-vs-gpt-5-vs-claude-4-2026)
+- [GPT-5.3-Codex: OpenAI&#39;s Autonomous Coding Agent Redefines Software Engineering](https://pooya.blog/blog/gpt-5-3-codex-autonomous-coding-agent-2026)
+- [GPT-5.3 Instant: OpenAI&#39;s Conversation Model Achieves 26.8% Hallucination Reduction](https://pooya.blog/blog/gpt-5-3-instant-conversational-model-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
