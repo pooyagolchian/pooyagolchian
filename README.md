@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [GARCH Volatility Forecasting: Predicting Market Turbulence Before It Arrives](https://pooya.blog/blog/garch-volatility-forecasting-market-turbulence-2026)
+- [NLP Market Sentiment Analysis: When Words Move Markets More Than Earnings](https://pooya.blog/blog/nlp-market-sentiment-analysis-words-move-markets-2026)
+- [Portfolio Risk Management: VaR, CVaR, and Kelly Criterion for 2026 Portfolios](https://pooya.blog/blog/portfolio-risk-var-cvar-kelly-criterion-2026)
 - [Q1 2026 Newsletter: JavaScript Ecosystem Shifts, AWS Infrastructure, and What I Shipped](https://pooya.blog/blog/q1-2026-newsletter-javascript-aws-infrastructure)
 - [Anthropic&#39;s $100M Partner Network: Building the Claude Ecosystem 2026](https://pooya.blog/blog/anthropic-claude-partner-network-100m-2026)
-- [Claude Opus 4.6 vs GPT-5.3-Codex: The State of Frontier AI Models in April 2026](https://pooya.blog/blog/claude-opus-4-6-vs-gpt-5-3-codex-2026)
-- [Gemini 2.0 vs GPT-5 vs Claude 4: The Spring 2026 AI Model Rankings](https://pooya.blog/blog/gemini-2-vs-gpt-5-vs-claude-4-2026)
-- [GPT-5.3-Codex: OpenAI&#39;s Autonomous Coding Agent Redefines Software Engineering](https://pooya.blog/blog/gpt-5-3-codex-autonomous-coding-agent-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
