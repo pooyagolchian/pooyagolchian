@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Max and the High-Volume Engineer: How Senior Developers Use Anthropic&#39;s Top Tier](https://pooya.blog/blog/claude-max-anthropic-high-volume-ai-engineering-2026)
+- [Hermes Agent with Ollama: The Self-Improving AI Agent That Runs Entirely Local](https://pooya.blog/blog/hermes-agent-ollama-local-ai-agent-2026)
+- [Tariff Volatility: Portfolio Positioning Through Trade War Uncertainty in 2026](https://pooya.blog/blog/tariff-trade-war-market-impact-portfolio-2026)
 - [GARCH Volatility Forecasting: Predicting Market Turbulence Before It Arrives](https://pooya.blog/blog/garch-volatility-forecasting-market-turbulence-2026)
 - [NLP Market Sentiment Analysis: When Words Move Markets More Than Earnings](https://pooya.blog/blog/nlp-market-sentiment-analysis-words-move-markets-2026)
-- [Portfolio Risk Management: VaR, CVaR, and Kelly Criterion for 2026 Portfolios](https://pooya.blog/blog/portfolio-risk-var-cvar-kelly-criterion-2026)
-- [Q1 2026 Newsletter: JavaScript Ecosystem Shifts, AWS Infrastructure, and What I Shipped](https://pooya.blog/blog/q1-2026-newsletter-javascript-aws-infrastructure)
-- [Anthropic&#39;s $100M Partner Network: Building the Claude Ecosystem 2026](https://pooya.blog/blog/anthropic-claude-partner-network-100m-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
