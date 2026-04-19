@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [dirham v1.5.3: The Complete Guide to UAE Dirham in React, Web Components, and Vanilla JS](https://pooya.blog/blog/dirham-v1-5-3-react-web-components-guide)
 - [AI Agent Memory Systems: How Claude, GPT, and Gemini Remember Context Across Sessions](https://pooya.blog/blog/ai-agent-memory-systems-cross-session-context-2026)
 - [AI Code Review at Scale: How Teams Ship 40% Faster Without Sacrificing Quality](https://pooya.blog/blog/ai-code-review-scale-ship-faster-2026)
 - [Claude Max and the High-Volume Engineer: How Senior Developers Use Anthropic&#39;s Top Tier](https://pooya.blog/blog/claude-max-anthropic-high-volume-ai-engineering-2026)
 - [Contentful vs Sanity vs Strapi vs Payload 2026: Developer Experience Benchmarks and Real Pricing](https://pooya.blog/blog/contentful-vs-sanity-vs-strapi-comparison-2026)
-- [CrewAI vs LangGraph vs AutoGen 2026: Pricing, Benchmarks, and Which One to Build On](https://pooya.blog/blog/crewai-vs-langgraph-autogen-comparison-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
