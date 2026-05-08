@@ -16,9 +16,9 @@ With over a decade of experience in front-end development, I've developed high-p
 <!-- BLOG-POST-LIST:START -->
 - [&#39;AI Doesn&#39;t Code&#39; Is a Skills Problem, Not an AI Problem](https://pooya.blog/blog/ai-doesnt-code-skills-problem-not-ai-problem-2026)
 - [How I Build AI Agent Teams That Actually Ship for B2B Companies](https://pooya.blog/blog/build-ai-agent-teams-b2b-companies-2026)
+- [riyal v1.2.0: The Saudi Riyal Symbol Toolkit for React, Vue, Svelte, and Web Components](https://pooya.blog/blog/riyal-saudi-currency-symbol-react-vue-svelte-2026)
 - [Stop Burning Claude Tokens: How RTK Cuts AI Coding Costs 60-90% in 2026](https://pooya.blog/blog/stop-burning-claude-tokens-rtk-ai-coding-costs-2026)
 - [dirham v1.5.3: The Complete Guide to UAE Dirham in React, Web Components, and Vanilla JS](https://pooya.blog/blog/dirham-v1-5-3-react-web-components-guide)
-- [AI Agent Memory Systems: How Claude, GPT, and Gemini Remember Context Across Sessions](https://pooya.blog/blog/ai-agent-memory-systems-cross-session-context-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
