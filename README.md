@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;AI Doesn&#39;t Code&#39; Is a Skills Problem, Not an AI Problem](https://pooya.blog/blog/ai-doesnt-code-skills-problem-not-ai-problem-2026)
+- [How I Build AI Agent Teams That Actually Ship for B2B Companies](https://pooya.blog/blog/build-ai-agent-teams-b2b-companies-2026)
+- [Stop Burning Claude Tokens: How RTK Cuts AI Coding Costs 60-90% in 2026](https://pooya.blog/blog/stop-burning-claude-tokens-rtk-ai-coding-costs-2026)
 - [dirham v1.5.3: The Complete Guide to UAE Dirham in React, Web Components, and Vanilla JS](https://pooya.blog/blog/dirham-v1-5-3-react-web-components-guide)
 - [AI Agent Memory Systems: How Claude, GPT, and Gemini Remember Context Across Sessions](https://pooya.blog/blog/ai-agent-memory-systems-cross-session-context-2026)
-- [AI Code Review at Scale: How Teams Ship 40% Faster Without Sacrificing Quality](https://pooya.blog/blog/ai-code-review-scale-ship-faster-2026)
-- [Claude Max and the High-Volume Engineer: How Senior Developers Use Anthropic&#39;s Top Tier](https://pooya.blog/blog/claude-max-anthropic-high-volume-ai-engineering-2026)
-- [Contentful vs Sanity vs Strapi vs Payload 2026: Developer Experience Benchmarks and Real Pricing](https://pooya.blog/blog/contentful-vs-sanity-vs-strapi-comparison-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
