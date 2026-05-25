@@ -14,11 +14,11 @@ With over a decade of experience in front-end development, I've developed high-p
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ6ZWN5YTk2ZjdkOWlvMHR2MGhmbDNvaTZjMDB6bjhuM3p3M29pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" style="display:inline-block" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemma 4 on Ollama: Multi-Token Prediction, Benchmarks, and Local Setup &lpar;May 2026&rpar;](https://pooyagolchian.com/blog/gemma-4-ollama-multi-token-prediction-local-2026)
 - [&#39;AI Doesn&#39;t Code&#39; Is a Skills Problem, Not an AI Problem](https://pooyagolchian.com/blog/ai-doesnt-code-skills-problem-not-ai-problem-2026)
 - [How I Build AI Agent Teams That Actually Ship for B2B Companies](https://pooyagolchian.com/blog/build-ai-agent-teams-b2b-companies-2026)
 - [riyal v1.2.0: The Saudi Riyal Symbol Toolkit for React, Vue, Svelte, and Web Components](https://pooyagolchian.com/blog/riyal-saudi-currency-symbol-react-vue-svelte-2026)
 - [Stop Burning Claude Tokens: How RTK Cuts AI Coding Costs 60-90% in 2026](https://pooyagolchian.com/blog/stop-burning-claude-tokens-rtk-ai-coding-costs-2026)
-- [dirham v1.5.3: The Complete Guide to UAE Dirham in React, Web Components, and Vanilla JS](https://pooyagolchian.com/blog/dirham-v1-5-3-react-web-components-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
