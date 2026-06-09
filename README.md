@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Pooya%20Golchian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Product%20Engineer%20%C2%B7%20Enterprise%20MVP%20Builder%20%C2%B7%20Agentic%20Development&descAlignY=58&descSize=18" alt="Pooya Golchian" width="100%" />
 
 <a href="https://pooyagolchian.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=808080&center=true&vCenter=true&width=720&lines=AI+Product+Engineer+%C2%B7+Dubai+%F0%9F%87%A6%F0%9F%87%AA;Enterprise+MVP+Builder+%E2%80%94+weeks%2C+not+quarters;Leading+Agentic+Development+%26+AIDLC;Agents+do+the+work.+Evals+keep+them+honest.;Builder+of+Hisabi.ai+%26+Codenovai" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=808080&center=true&vCenter=true&width=720&lines=AI+Product+Engineer+%C2%B7+Dubai+%F0%9F%87%A6%F0%9F%87%AA;Enterprise+MVP+Builder+%E2%80%94+weeks%2C+not+quarters;Leading+Agentic+Development+%26+AIDLC;Agentic+AIOps+%C2%B7+IaC+with+Terraform+%26+SST;Agents+do+the+work.+Evals+keep+them+honest.;Builder+of+Hisabi.ai+%26+Codenovai" alt="What I do" />
 </a>
 
 <br/>
@@ -55,12 +55,12 @@ I'm an **AI Product Engineer** and **enterprise MVP builder** who turns agentic 
 | :-: | :-- | :-- | :-- |
 | 1 | 🧭 **Frame** | Turn a fuzzy business problem into a sharp, testable problem statement | Build the right thing — no expensive guesses |
 | 2 | 📐 **Spec** | Define behavior, boundaries, data contracts, and success criteria | Shared truth across stakeholders & agents |
-| 3 | 🏗️ **Scaffold** | Stand up the repo, agents, tools/MCP, and infra skeleton | A walking skeleton in days |
+| 3 | 🏗️ **Scaffold** | Stand up the repo, agents, tools/MCP, and an **Infra-as-Code** skeleton (Terraform · SST) | A walking skeleton in days |
 | 4 | 🤖 **Generate** | Agents do the heavy lifting under senior engineering review | Velocity without losing the plot |
 | 5 | 🧪 **Eval** | Evaluation suites grade behavior, quality, and regressions | Quality you can prove, not hope for |
-| 6 | 🛡️ **Harden** | Security, cost, privacy, and failure-mode hardening | Sovereign-ready (PDPL · DIFC), cost-aware |
+| 6 | 🛡️ **Harden** | **DevSecOps** — security, cost, privacy, and failure-mode hardening | Sovereign-ready (PDPL · DIFC), cost-aware |
 | 7 | 🚀 **Ship** | Release behind evals + observability — nothing ships blind | Confident, reversible launches |
-| 8 | 📡 **Operate** | Run with decision-level observability and live cost control | Production AI you can actually manage |
+| 8 | 📡 **Operate** | **AIOps** — decision-level observability, live cost control, and agentic rollback | Production AI you can actually manage |
 
 <div align="center">
 <sub><b>The MVP promise:</b> agentic speed + eval guardrails = production AI in weeks, not quarters.</sub>
