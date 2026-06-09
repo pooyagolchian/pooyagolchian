@@ -32,7 +32,8 @@ I'm an **AI Product Engineer** and **enterprise MVP builder** who turns agentic 
 > **Agents do the heavy lifting. Evals keep them honest. Senior engineering holds the boundary.**
 
 - 🚀 **Enterprise MVPs, fast** — production-grade AI products in weeks, not quarters, with guardrails from day one
-- 🤖 **Agentic Software Engineering** — multi-agent orchestration, agent role & memory design, tool/MCP servers
+- 🤖 **Agentic Software Engineering** — designing **multi-agent teams**: orchestration, role design, **memory & context management**, and tool/MCP servers
+- ⚙️ **Agentic AIOps & DevSecOps** — **Infra-as-Code with Terraform & SST**, CI/CD for agents, and secure agentic deployment you can observe and roll back
 - ♻️ **AIDLC** — an eight-phase AI Development Lifecycle, from a framed problem to an operated system
 - 🧪 **Production AI Systems** — RAG pipelines, evaluation frameworks, token economics & cost reduction
 - 🔐 **Private / Sovereign AI** — on-prem LLM deployment with compliance readiness (PDPL, DIFC)
@@ -121,6 +122,7 @@ I'm an **AI Product Engineer** and **enterprise MVP builder** who turns agentic 
 ![MCP](https://img.shields.io/badge/MCP_Servers-0A0A0A?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain_/_LangGraph-0A0A0A?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_%2F_Vector_DB-0A0A0A?style=flat-square&logo=databricks&logoColor=white)
+![Agent Memory](https://img.shields.io/badge/Agent_Memory_%2F_Context-0A0A0A?style=flat-square&logo=redis&logoColor=white)
 ![Evals](https://img.shields.io/badge/Evaluation_Frameworks-0A0A0A?style=flat-square&logo=testcafe&logoColor=white)
 
 **⚙️ Build**
@@ -141,6 +143,14 @@ I'm an **AI Product Engineer** and **enterprise MVP builder** who turns agentic 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
+
+**🔭 AIOps · DevSecOps · IaC**
+
+![Terraform](https://img.shields.io/badge/Terraform-0A0A0A?style=flat-square&logo=terraform&logoColor=white)
+![SST](https://img.shields.io/badge/SST-0A0A0A?style=flat-square&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0A?style=flat-square&logo=kubernetes&logoColor=white)
+![Observability](https://img.shields.io/badge/Observability-0A0A0A?style=flat-square&logo=grafana&logoColor=white)
+![Snyk](https://img.shields.io/badge/DevSecOps-0A0A0A?style=flat-square&logo=snyk&logoColor=white)
 
 ---
 
