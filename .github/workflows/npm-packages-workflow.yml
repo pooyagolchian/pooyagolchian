@@ -1,0 +1,34 @@
+name: npm packages workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '17 6 * * 1' # Every Monday at 06:17 UTC
+  workflow_dispatch: # Run workflow manually from the Actions tab
+permissions:
+  contents: write # To write the refreshed package list back to the README
+
+jobs:
+  refresh-npm-section:
+    name: Refresh the Open Source & npm section from the live registry
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Refresh README npm block
+        env:
+          NPM_MAINTAINER: pooya
+        run: node .claude/skills/sync-npm-packages/scripts/refresh-readme.mjs
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh npm packages section"
+            git push
+          else
+            echo "No changes to README.md"
+          fi

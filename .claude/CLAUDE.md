@@ -14,15 +14,31 @@ run, build, or test — the only deliverables are `README.md` and the GitHub Act
   `https://pooya.blog/rss` into the README.
 - `.github/workflows/snake.yml` — generates the contribution snake SVGs (via `Platane/snk`)
   and pushes them to the **`output` branch**; the README embeds them from there.
+- `.github/workflows/npm-packages-workflow.yml` — weekly job (Mon 06:17 UTC) that refreshes
+  the **Open Source & npm** block from the live registry via the `sync-npm-packages` script.
 - `.gitignore` — keeps `.claude/` tracked but ignores OS/editor cruft, secrets, and
   `.claude/*.local.json` / credentials.
-- `.claude/` — agentic tooling for maintaining this profile (skills + agents).
+- `.mcp.json` — registers the **`npm-pulse`** MCP server (below).
+- `.claude/` — agentic tooling for maintaining this profile:
+  - `agents/profile-curator.md` — fact-checks/refreshes the README against the live sites.
+  - `skills/update-profile` — re-syncs headline/About/ventures/stack.
+  - `skills/sync-npm-packages` — regenerates the npm block from the registry (`scripts/refresh-readme.mjs`,
+    shared with the workflow above).
+  - `skills/forge-badge` — on-brand shields.io badge generator (palette in `references/palette.md`).
+  - `skills/profile-doctor` — link/widget health-check (`scripts/check-links.sh`).
+  - `mcp/npm-pulse` — zero-dependency Node stdio MCP server exposing npm registry stats
+    (`list_packages`, `package_downloads`, `package_info`, `profile_summary`). Default
+    maintainer `pooya` via `NPM_MAINTAINER`. The skills are portable Agent Skills, installable
+    elsewhere with `npx skills add pooyagolchian/pooyagolchian/<skill>`.
 
 ## ⚠️ Hard rules
 
 - **Never remove or rename** the `<!-- BLOG-POST-LIST:START -->` / `<!-- BLOG-POST-LIST:END -->`
   markers in `README.md`. The workflow rewrites everything between them; deleting them breaks
   the automation. Don't hand-edit the post list — let the workflow own it.
+- **Never remove or rename** the `<!-- NPM-PACKAGES:START -->` / `<!-- NPM-PACKAGES:END -->`
+  markers either. The `sync-npm-packages` script (and the weekly workflow) own that block —
+  don't hand-edit the package table; change grouping in the script's `GROUPS` array instead.
 - **No email addresses** in `README.md` — no `mailto:` links, no Gmail/pooya.blog inbox badges.
   Route contact through LinkedIn / DEV / Stack Overflow / Telegram / the website only.
 - **Don't break the snake** — keep the `output`-branch embed (`<picture>` with the
@@ -93,5 +109,9 @@ free instances and swap the hostnames into the commented block in `README.md`:
 
 ## How to update the profile
 
-Use the `update-profile` skill in `.claude/skills/`, or the `profile-curator` agent in
-`.claude/agents/` to re-sync the README with the live sites and positioning above.
+- **Positioning / ventures / stack** → `update-profile` skill, or the `profile-curator` agent.
+- **npm packages** (versions, downloads, new/renamed package) → `sync-npm-packages` skill:
+  run `node .claude/skills/sync-npm-packages/scripts/refresh-readme.mjs` (or inspect first with
+  the `npm-pulse` MCP tools). Never hand-edit the `NPM-PACKAGES` block.
+- **Badges / logo wall** → `forge-badge` skill (brand palette in its `references/palette.md`).
+- **Before committing README changes** → `profile-doctor` skill to health-check every link/badge.

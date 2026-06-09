@@ -9,9 +9,23 @@
       "WebFetch(domain:codenovai.com)",
       "WebFetch(domain:www.codenovai.com)",
       "WebFetch(domain:pooya.blog)",
+      "WebFetch(domain:www.npmjs.com)",
+      "WebFetch(domain:registry.npmjs.org)",
+      "WebFetch(domain:api.npmjs.org)",
+      "WebFetch(domain:skills.sh)",
+      "WebFetch(domain:claudemarketplaces.com)",
       "Bash(git status:*)",
       "Bash(git diff:*)",
-      "Bash(git log:*)"
+      "Bash(git log:*)",
+      "Bash(node .claude/skills/sync-npm-packages/scripts/refresh-readme.mjs:*)",
+      "Bash(node .claude/mcp/npm-pulse/server.mjs:*)",
+      "Bash(bash .claude/skills/profile-doctor/scripts/check-links.sh:*)",
+      "Bash(curl -s https://registry.npmjs.org/:*)",
+      "Bash(curl -s https://api.npmjs.org/:*)",
+      "mcp__npm-pulse__list_packages",
+      "mcp__npm-pulse__package_downloads",
+      "mcp__npm-pulse__package_info",
+      "mcp__npm-pulse__profile_summary"
     ],
     "deny": []
   }

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "npm-pulse": {
+      "command": "node",
+      "args": [".claude/mcp/npm-pulse/server.mjs"],
+      "env": { "NPM_MAINTAINER": "pooya" }
+    }
+  }
+}

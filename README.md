@@ -4,22 +4,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C47FF,50:8E75B2,100:00C2A8&height=200&section=header&text=Pooya%20Golchian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Product%20Engineer%20%C2%B7%20Enterprise%20MVP%20Builder%20%C2%B7%20Agentic%20Development&descAlignY=58&descSize=18" alt="Pooya Golchian" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Pooya%20Golchian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Product%20Engineer%20%C2%B7%20Enterprise%20MVP%20Builder%20%C2%B7%20Agentic%20Development&descAlignY=58&descSize=18" alt="Pooya Golchian" width="100%" />
 
 <a href="https://pooyagolchian.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=6C47FF&center=true&vCenter=true&width=720&lines=AI+Product+Engineer+%C2%B7+Dubai+%F0%9F%87%A6%F0%9F%87%AA;Enterprise+MVP+Builder+%E2%80%94+weeks%2C+not+quarters;Leading+Agentic+Development+%26+AIDLC;Agents+do+the+work.+Evals+keep+them+honest.;Builder+of+Hisabi.ai+%26+Codenovai" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=808080&center=true&vCenter=true&width=720&lines=AI+Product+Engineer+%C2%B7+Dubai+%F0%9F%87%A6%F0%9F%87%AA;Enterprise+MVP+Builder+%E2%80%94+weeks%2C+not+quarters;Leading+Agentic+Development+%26+AIDLC;Agents+do+the+work.+Evals+keep+them+honest.;Builder+of+Hisabi.ai+%26+Codenovai" alt="What I do" />
 </a>
 
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-pooyagolchian.com-0A0A0A?style=for-the-badge&logo=astro&logoColor=white)](https://pooyagolchian.com/)
-[![Hisabi.ai](https://img.shields.io/badge/Hisabi.ai-AI_Accountant-6C47FF?style=for-the-badge)](https://hisabi.ai/)
-[![Codenovai](https://img.shields.io/badge/Codenovai-AI_Automation-00C2A8?style=for-the-badge)](https://www.codenovai.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooyagolchian/)
+[![Hisabi.ai](https://img.shields.io/badge/Hisabi.ai-AI_Accountant-0A0A0A?style=for-the-badge)](https://hisabi.ai/)
+[![Codenovai](https://img.shields.io/badge/Codenovai-AI_Automation-0A0A0A?style=for-the-badge)](https://www.codenovai.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooyagolchian/)
 
-![Profile views](https://komarev.com/ghpvc/?username=pooyagolchian&label=Profile%20views&color=6C47FF&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/pooyagolchian?label=Followers&style=flat-square&color=8E75B2&logo=github)](https://github.com/pooyagolchian?tab=followers)
-[![Stars](https://img.shields.io/github/stars/pooyagolchian?label=Stars&style=flat-square&color=00C2A8&logo=github)](https://github.com/pooyagolchian)
+![Profile views](https://komarev.com/ghpvc/?username=pooyagolchian&label=Profile%20views&color=0A0A0A&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/pooyagolchian?label=Followers&style=flat-square&color=0A0A0A&logo=github)](https://github.com/pooyagolchian?tab=followers)
+[![Stars](https://img.shields.io/github/stars/pooyagolchian?label=Stars&style=flat-square&color=0A0A0A&logo=github)](https://github.com/pooyagolchian)
 
 </div>
 
@@ -77,56 +77,107 @@ I'm an **AI Product Engineer** and **enterprise MVP builder** who turns agentic 
 
 ---
 
+## 🏗️ Featured Build — Notion MCP Challenge
+
+**[RevOps AI](https://github.com/pooyagolchian/ai-sales-crm)** turns **Notion into the database for an AI sales team** — Gemini runs as an autonomous agent over a Kanban pipeline synced to Notion, scores leads 0–100, drafts emails, and answers revenue questions in natural language. The agentic core **auto-maps all 22 Notion MCP tools to Gemini function declarations**, so the model decides which operations to run — no hardcoded glue.
+
+🏅 Built for the **[Notion MCP Challenge](https://dev.to/challenges/notion-2026-03-04)** (Notion × MLH) — earned the challenge completion badge.
+
+[![RevOps AI repo](https://img.shields.io/badge/Repo-ai--sales--crm-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/pooyagolchian/ai-sales-crm)
+![Next.js 15](https://img.shields.io/badge/Next.js_15-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white)
+![Notion MCP](https://img.shields.io/badge/Notion_MCP-0A0A0A?style=flat-square&logo=notion&logoColor=white)
+![Gemini 2.5 Flash](https://img.shields.io/badge/Gemini_2.5_Flash-0A0A0A?style=flat-square&logo=googlegemini&logoColor=white)
+![Notion MCP Challenge](https://img.shields.io/badge/Notion_MCP_Challenge-Completion_Badge-0A0A0A?style=flat-square)
+
+---
+
 ## 🧠 Agentic Stack
 
 **🤖 Models**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![GPT / Codex](https://img.shields.io/badge/GPT_/_Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-1C69FF?style=flat-square&logo=googlegemini&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-0866FF?style=flat-square&logo=meta&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white)
-![Nous Hermes](https://img.shields.io/badge/Nous_Hermes-1A1A1A?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square&logo=qwen&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-0A0A0A?style=flat-square&logo=anthropic&logoColor=white)
+![GPT / Codex](https://img.shields.io/badge/GPT_/_Codex-0A0A0A?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-0A0A0A?style=flat-square&logo=googlegemini&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0A0A0A?style=flat-square&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-0A0A0A?style=flat-square&logo=mistralai&logoColor=white)
+![Nous Hermes](https://img.shields.io/badge/Nous_Hermes-0A0A0A?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-0A0A0A?style=flat-square&logo=ollama&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0A0A?style=flat-square&logo=deepseek&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-0A0A0A?style=flat-square&logo=qwen&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-0A0A0A?style=flat-square&logo=x&logoColor=white)
 
 **🛠️ Agentic Dev Tools & CLIs**
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Codex CLI](https://img.shields.io/badge/Codex_CLI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-1C69FF?style=flat-square&logo=googlegemini&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-09B6A2?style=flat-square&logo=windsurf&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0A0A0A?style=flat-square&logo=anthropic&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex_CLI-0A0A0A?style=flat-square&logo=openai&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-0A0A0A?style=flat-square&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-0A0A0A?style=flat-square&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-0A0A0A?style=flat-square&logo=google&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=flat-square&logo=windsurf&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-0A0A0A?style=flat-square&logo=githubcopilot&logoColor=white)
 
 **🔌 Protocols & Retrieval**
 
-![MCP](https://img.shields.io/badge/MCP_Servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain_/_LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_%2F_Vector_DB-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![Evals](https://img.shields.io/badge/Evaluation_Frameworks-6C47FF?style=flat-square&logo=testcafe&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-0A0A0A?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain_/_LangGraph-0A0A0A?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%2F_Vector_DB-0A0A0A?style=flat-square&logo=databricks&logoColor=white)
+![Evals](https://img.shields.io/badge/Evaluation_Frameworks-0A0A0A?style=flat-square&logo=testcafe&logoColor=white)
 
 **⚙️ Build**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-0A0A0A?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-0A0A0A?style=flat-square&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-0A0A0A?style=flat-square&logo=astro&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **☁️ Ship**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 📦 Open Source & npm
+
+Libraries I publish and maintain on npm — currency primitives, Vue/Nuxt UI & theming, CSS tooling, and local-LLM hooks. Versions and download counts below are live and auto-refreshed weekly.
+
+<!-- NPM-PACKAGES:START -->
+<div align="center"><sub><b>7 packages</b> · ~27K downloads / year on npm · published under <a href="https://www.npmjs.com/~pooya"><code>pooya</code></a></sub></div>
+
+**🤖 AI / Agentic**
+
+| Package | What it does | Version | Downloads |
+| :-- | :-- | :-: | :-: |
+| [`use-local-llm`](https://www.npmjs.com/package/use-local-llm) | React hooks for streaming responses from local LLMs — Ollama, LM Studio, llama.cpp. Zero server required. | [![v](https://img.shields.io/npm/v/use-local-llm?style=flat-square&logo=npm&logoColor=white&color=6C47FF&label=)](https://www.npmjs.com/package/use-local-llm) | [![dm](https://img.shields.io/npm/dm/use-local-llm?style=flat-square&color=8E75B2&label=%E2%86%93%2Fmo)](https://www.npmjs.com/package/use-local-llm) |
+
+**💱 Currency & i18n**
+
+| Package | What it does | Version | Downloads |
+| :-- | :-- | :-: | :-: |
+| [`dirham`](https://www.npmjs.com/package/dirham) | UAE Dirham currency symbol (U+20C3). Web font, CSS, React, and Web Component for Vue, Angular, Svelte &… | [![v](https://img.shields.io/npm/v/dirham?style=flat-square&logo=npm&logoColor=white&color=6C47FF&label=)](https://www.npmjs.com/package/dirham) | [![dm](https://img.shields.io/npm/dm/dirham?style=flat-square&color=8E75B2&label=%E2%86%93%2Fmo)](https://www.npmjs.com/package/dirham) |
+| [`riyal`](https://www.npmjs.com/package/riyal) | The Saudi Riyal currency symbol (U+20C1) as a web font, CSS utility, React, Vue 3, Svelte 5, React Native, and… | [![v](https://img.shields.io/npm/v/riyal?style=flat-square&logo=npm&logoColor=white&color=6C47FF&label=)](https://www.npmjs.com/package/riyal) | [![dm](https://img.shields.io/npm/dm/riyal?style=flat-square&color=8E75B2&label=%E2%86%93%2Fmo)](https://www.npmjs.com/package/riyal) |
+
+**🎨 Vue / Nuxt — UI & Theming**
+
+| Package | What it does | Version | Downloads |
+| :-- | :-- | :-: | :-: |
+| [`vue-multiple-themes`](https://www.npmjs.com/package/vue-multiple-themes) | Vue 3 multi-theme engine: CSS custom properties, TailwindCSS opacity modifiers, white-label brand contexts,… | [![v](https://img.shields.io/npm/v/vue-multiple-themes?style=flat-square&logo=npm&logoColor=white&color=6C47FF&label=)](https://www.npmjs.com/package/vue-multiple-themes) | [![dm](https://img.shields.io/npm/dm/vue-multiple-themes?style=flat-square&color=8E75B2&label=%E2%86%93%2Fmo)](https://www.npmjs.com/package/vue-multiple-themes) |
+| [`nuxt-multiple-themes`](https://www.npmjs.com/package/nuxt-multiple-themes) | Nuxt 3 module for vue-multiple-themes — multi-theme engine with CSS custom properties, TailwindCSS, WCAG… | [![v](https://img.shields.io/npm/v/nuxt-multiple-themes?style=flat-square&logo=npm&logoColor=white&color=6C47FF&label=)](https://www.npmjs.com/package/nuxt-multiple-themes) | [![dm](https://img.shields.io/npm/dm/nuxt-multiple-themes?style=flat-square&color=8E75B2&label=%E2%86%93%2Fmo)](https://www.npmjs.com/package/nuxt-multiple-themes) |
+| [`vue-js-star-rating`](https://www.npmjs.com/package/vue-js-star-rating) | Zero-dependency Vue 3.5+ star rating component — WCAG 2.2 accessible, TypeScript-first, half-star precision,… | [![v](https://img.shields.io/npm/v/vue-js-star-rating?style=flat-square&logo=npm&logoColor=white&color=6C47FF&label=)](https://www.npmjs.com/package/vue-js-star-rating) | [![dm](https://img.shields.io/npm/dm/vue-js-star-rating?style=flat-square&color=8E75B2&label=%E2%86%93%2Fmo)](https://www.npmjs.com/package/vue-js-star-rating) |
+
+**🧰 CSS Tooling**
+
+| Package | What it does | Version | Downloads |
+| :-- | :-- | :-: | :-: |
+| [`scss-helper`](https://www.npmjs.com/package/scss-helper) | A remarkable SCSS/CSS utility toolkit — fills the gaps in Tailwind CSS v3/v4 and pure-SCSS projects with… | [![v](https://img.shields.io/npm/v/scss-helper?style=flat-square&logo=npm&logoColor=white&color=6C47FF&label=)](https://www.npmjs.com/package/scss-helper) | [![dm](https://img.shields.io/npm/dm/scss-helper?style=flat-square&color=8E75B2&label=%E2%86%93%2Fmo)](https://www.npmjs.com/package/scss-helper) |
+<!-- NPM-PACKAGES:END -->
 
 ---
 
@@ -134,9 +185,9 @@ I'm an **AI Product Engineer** and **enterprise MVP builder** who turns agentic 
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pooyagolchian&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=pooyagolchian&hide_border=true&background=000000&border=2B2B2B&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&excludeDaysLabel=AAAAAA)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pooyagolchian&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pooyagolchian&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=444444)
 
 <!--
   OPTIONAL UPGRADE — full stats card + top languages + trophies.
@@ -146,9 +197,9 @@ I'm an **AI Product Engineer** and **enterprise MVP builder** who turns agentic 
   To enable reliably: self-host them (see .claude/CLAUDE.md -> "Self-hosting profile stats"),
   replace YOUR-STATS-INSTANCE / YOUR-TROPHY-INSTANCE below, then uncomment.
 
-  ![GitHub stats](https://YOUR-STATS-INSTANCE.vercel.app/api?username=pooyagolchian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  ![Top Languages](https://YOUR-STATS-INSTANCE.vercel.app/api/top-langs/?username=pooyagolchian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-  ![Trophies](https://YOUR-TROPHY-INSTANCE.vercel.app/?username=pooyagolchian&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
+  ![GitHub stats](https://YOUR-STATS-INSTANCE.vercel.app/api?username=pooyagolchian&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+  ![Top Languages](https://YOUR-STATS-INSTANCE.vercel.app/api/top-langs/?username=pooyagolchian&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)
+  ![Trophies](https://YOUR-TROPHY-INSTANCE.vercel.app/?username=pooyagolchian&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=4)
 -->
 
 </div>
@@ -190,15 +241,15 @@ Notes on the agentic era — AIDLC, evals, and how engineering roles are changin
 Open to **enterprise AI MVPs**, **agentic systems**, and **fractional AI engineering leadership**.
 
 [![Website](https://img.shields.io/badge/Website-pooyagolchian.com-0A0A0A?style=flat-square&logo=astro&logoColor=white)](https://pooyagolchian.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pooyagolchian-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooyagolchian/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pooyagolchian-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooyagolchian/)
 [![DEV](https://img.shields.io/badge/DEV-pooyagolchian-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/pooyagolchian)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Pooya_Golchian-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2257357/pooya-golchian)
-[![Telegram](https://img.shields.io/badge/Telegram-@icoder-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/icoder)
-[![Dribbble](https://img.shields.io/badge/Dribbble-pooyagolchian-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/pooyagolchian)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Pooya_Golchian-0A0A0A?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2257357/pooya-golchian)
+[![Telegram](https://img.shields.io/badge/Telegram-@icoder-0A0A0A?style=flat-square&logo=telegram&logoColor=white)](https://t.me/icoder)
+[![Dribbble](https://img.shields.io/badge/Dribbble-pooyagolchian-0A0A0A?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/pooyagolchian)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,50:8E75B2,100:6C47FF&height=120&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer" alt="" width="100%" />
 
 <sub>⚡ Built agentically — this profile is maintained with Claude Code skills & agents in <a href="./.claude">.claude/</a></sub>
 

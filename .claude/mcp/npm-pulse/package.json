@@ -1,0 +1,9 @@
+{
+  "name": "npm-pulse",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Zero-dependency MCP server exposing live npm registry stats for a maintainer.",
+  "bin": { "npm-pulse": "server.mjs" },
+  "engines": { "node": ">=18" }
+}
