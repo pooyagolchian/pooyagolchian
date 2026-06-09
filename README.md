@@ -253,4 +253,6 @@ Open to **enterprise AI MVPs**, **agentic systems**, and **fractional AI enginee
 
 <sub>⚡ Built agentically — this profile is maintained with Claude Code skills & agents in <a href="./.claude">.claude/</a></sub>
 
+<sub>🧩 Reusable skills, installable anywhere — <code>npx skills add pooyagolchian/pooyagolchian/&lt;skill&gt;</code> · <code>sync-npm-packages</code> · <code>forge-badge</code> · <code>profile-doctor</code></sub>
+
 </div>
