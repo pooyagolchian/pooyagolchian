@@ -22,8 +22,8 @@ const README =
   resolve(dirname(fileURLToPath(import.meta.url)), "../../../../README.md");
 
 // brand palette (keep in sync with .claude/skills/forge-badge)
-const C_VER = "6C47FF"; // version badge
-const C_DL = "8E75B2"; // downloads badge
+const C_VER = "0A0A0A"; // version badge (monochrome)
+const C_DL = "2B2B2B"; // downloads badge (monochrome)
 
 // Curated grouping. Any package not listed here drops into an auto "📦 More" group,
 // so newly published packages appear without code changes.

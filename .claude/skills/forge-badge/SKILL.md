@@ -23,15 +23,15 @@ palette in [references/palette.md](references/palette.md) — read that file fir
 ![LABEL](https://img.shields.io/badge/LABEL-HEX?style=flat-square&logo=SLUG&logoColor=white)
 ```
 - `LABEL` — URL-encode spaces as `_`; encode a literal `-` as `--`.
-- `HEX` — pick from `references/palette.md` (prefer the vendor's brand color; fall back to the
-  three-color house palette for non-branded items).
+- `HEX` — the profile is **monochrome**: use `0A0A0A` (ink) for every badge fill and
+  `&logoColor=white`. See `references/palette.md`. Do not use vendor brand colors.
 - `SLUG` — a [simpleicons.org](https://simpleicons.org) slug (verify it exists; omit `&logo=`
   if there's no icon).
 
 **Live npm badges** (auto-updating)
 ```
-version:   https://img.shields.io/npm/v/PKG?style=flat-square&logo=npm&logoColor=white&color=6C47FF&label=
-downloads: https://img.shields.io/npm/dm/PKG?style=flat-square&color=8E75B2&label=%E2%86%93%2Fmo
+version:   https://img.shields.io/npm/v/PKG?style=flat-square&logo=npm&logoColor=white&color=0A0A0A&label=
+downloads: https://img.shields.io/npm/dm/PKG?style=flat-square&color=2B2B2B&label=%E2%86%93%2Fmo
 ```
 For the profile's npm section, don't hand-add these — let the `sync-npm-packages` skill own the
 marker block.

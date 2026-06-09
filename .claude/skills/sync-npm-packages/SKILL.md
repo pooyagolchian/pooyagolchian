@@ -45,8 +45,8 @@ Two interchangeable data paths — both read `maintainer:pooya` from npm:
   script/workflow owns that block (same rule as the blog-post list).
 - Grouping lives in `scripts/refresh-readme.mjs` (`GROUPS`). New packages that aren't grouped
   auto-appear under **📦 More** — add them to a group for nicer placement.
-- Badge colors track the brand palette (see the `forge-badge` skill): version `#6C47FF`,
-  downloads `#8E75B2`.
+- Badge colors are monochrome (see the `forge-badge` skill): version `#0A0A0A`,
+  downloads `#2B2B2B`.
 - Badges render on github.com via the camo proxy — the IDE markdown preview is not a valid test.
 
 ## Workflow
