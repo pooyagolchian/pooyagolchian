@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # allow manual runs
   push:
     branches:
-      - master
+      - main
 
 permissions:
   contents: write # to push the generated SVG to the output branch
