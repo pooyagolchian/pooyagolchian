@@ -1,1 +1,40 @@
-.idea
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node / build (future-proofing)
+node_modules/
+dist/
+build/
+.next/
+out/
+*-debug.log*
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+
+# Logs / temp / cache
+*.log
+.cache/
+tmp/
+.temp/
+
+# Claude local-only (the rest of .claude/ is intentionally committed)
+.claude/settings.local.json
+.claude/**/*.local.json
+.claude/.credentials*

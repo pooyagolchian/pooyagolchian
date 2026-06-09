@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Read",
+      "Edit",
+      "WebFetch(domain:pooyagolchian.com)",
+      "WebFetch(domain:hisabi.ai)",
+      "WebFetch(domain:codenovai.com)",
+      "WebFetch(domain:www.codenovai.com)",
+      "WebFetch(domain:pooya.blog)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)"
+    ],
+    "deny": []
+  }
+}
