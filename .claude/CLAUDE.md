@@ -65,6 +65,32 @@ Confident, senior, builder-first — not hype. The signature stance:
 Prefer concrete capability over buzzwords. Use AI/agentic terms because they're accurate, not
 decorative. Keep the README skimmable: short sections, badges, tables.
 
+## Dynamic widgets — what's reliable vs not
+
+The IDE markdown preview is **not** a valid test for these — they render on github.com (via
+GitHub's camo image proxy), not always in the local preview. Verify on the real profile page.
+
+- ✅ **Reliable** (return HTTP 200): profile views (`komarev.com`), streak stats
+  (`streak-stats.demolab.com`), activity graph (`github-readme-activity-graph.vercel.app`),
+  and the **contribution snake** (served from the `output` branch by `snake.yml`).
+- ⚠️ **Unreliable public instances** (intentionally disabled in the README as an HTML comment):
+  - `github-readme-stats.vercel.app` (stats card + top-langs) → frequent **HTTP 503**
+    (shared instance hits GitHub's API rate limit).
+  - `github-profile-trophy.vercel.app` (trophies) → **HTTP 402** (public Vercel instance is
+    over its free quota).
+
+### Self-hosting profile stats (the reliable upgrade)
+
+To turn the stats card / top-langs / trophies back on without rate limits, deploy your own
+free instances and swap the hostnames into the commented block in `README.md`:
+
+1. **github-readme-stats** — fork `anuraghazra/github-readme-stats`, "Deploy" to Vercel, add a
+   `PAT_1` env var (a GitHub token with `repo` + `read:user` scope). Use
+   `https://<your-instance>.vercel.app/api?...` and `/api/top-langs/?...`.
+2. **github-profile-trophy** — fork `ryo-ma/github-profile-trophy`, deploy to Vercel, add a
+   `GITHUB_TOKEN` env var. Use `https://<your-instance>.vercel.app/?...`.
+3. Replace `YOUR-STATS-INSTANCE` / `YOUR-TROPHY-INSTANCE` in the README comment and uncomment.
+
 ## How to update the profile
 
 Use the `update-profile` skill in `.claude/skills/`, or the `profile-curator` agent in

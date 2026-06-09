@@ -134,14 +134,22 @@ I'm an **AI Product Engineer** and **enterprise MVP builder** who turns agentic 
 
 <div align="center">
 
-![Pooya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooyagolchian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=pooyagolchian&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pooyagolchian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=pooyagolchian&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pooyagolchian&theme=tokyo-night&hide_border=true&area=true)
+
+<!--
+  OPTIONAL UPGRADE — full stats card + top languages + trophies.
+  Disabled by default because the PUBLIC instances are unreliable:
+    github-readme-stats.vercel.app   -> HTTP 503 (GitHub API rate limit)
+    github-profile-trophy.vercel.app -> HTTP 402 (Vercel free quota exceeded)
+  To enable reliably: self-host them (see .claude/CLAUDE.md -> "Self-hosting profile stats"),
+  replace YOUR-STATS-INSTANCE / YOUR-TROPHY-INSTANCE below, then uncomment.
+
+  ![GitHub stats](https://YOUR-STATS-INSTANCE.vercel.app/api?username=pooyagolchian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  ![Top Languages](https://YOUR-STATS-INSTANCE.vercel.app/api/top-langs/?username=pooyagolchian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+  ![Trophies](https://YOUR-TROPHY-INSTANCE.vercel.app/?username=pooyagolchian&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
+-->
 
 </div>
 
