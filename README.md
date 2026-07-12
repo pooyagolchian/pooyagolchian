@@ -235,11 +235,11 @@ Libraries I publish and maintain on npm — currency primitives, Vue/Nuxt UI & t
 Notes on the agentic era — AIDLC, evals, and how engineering roles are changing.
 
 <!-- BLOG-POST-LIST:START -->
+- [Bolts vs Sprints: How Agentic Teams Measure Work Now](https://pooyagolchian.com/blog/bolts-vs-sprints-agentic-teams-2026)
+- [How to Build an App With a Ralph Loop and a Goal Prompt](https://pooyagolchian.com/blog/build-app-ralph-loop-goal-prompt-2026)
+- [How to Write a Spec an AI Agent Can Actually Build](https://pooyagolchian.com/blog/how-to-write-specs-for-ai-agents-2026)
 - [Managing and Training a Technical Team to Ship With Agents](https://pooyagolchian.com/blog/managing-training-technical-teams-agentic-ai-2026)
-- [The 2026 AI Transformation Playbook for UAE and Dubai Businesses](https://pooyagolchian.com/blog/ai-transformation-uae-dubai-2026)
-- [AIDLC vs SDLC: What Changes When Agents Write the Code](https://pooyagolchian.com/blog/aidlc-vs-sdlc-2026)
-- [Ollama Cloud vs Claude and GPT: Real Cost, Limits, and Quality in 2026](https://pooyagolchian.com/blog/ollama-cloud-vs-claude-gpt-cost-2026)
-- [Wiring Ollama Into Visual Studio 2026 Copilot the Right Way](https://pooyagolchian.com/blog/visual-studio-2026-local-ai-ollama-copilot)
+- [The Spec-to-Bolt Loop: The Agentic Development Cycle End to End](https://pooyagolchian.com/blog/spec-to-bolt-loop-agentic-development-2026)
 <!-- BLOG-POST-LIST:END -->
 
 📚 [Read more on pooyagolchian.com →](https://pooyagolchian.com/blog)
