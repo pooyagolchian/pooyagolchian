@@ -159,7 +159,7 @@ I'm an **AI Product Engineer** and **enterprise MVP builder** who turns agentic 
 Libraries I publish and maintain on npm — currency primitives, Vue/Nuxt UI & theming, CSS tooling, and local-LLM hooks. Versions and download counts below are live and auto-refreshed weekly.
 
 <!-- NPM-PACKAGES:START -->
-<div align="center"><sub><b>7 packages</b> · ~39K downloads / year on npm · published under <a href="https://www.npmjs.com/~pooya"><code>pooya</code></a></sub></div>
+<div align="center"><sub><b>7 packages</b> · ~42K downloads / year on npm · published under <a href="https://www.npmjs.com/~pooya"><code>pooya</code></a></sub></div>
 
 **🤖 AI / Agentic**
 
