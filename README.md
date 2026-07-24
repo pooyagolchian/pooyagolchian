@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Pooya%20Golchian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Forward-Deployed%20Engineer%20%C2%B7%20AI%20Transformation%20for%20Fintech%2C%20Payments%20%26%20BNPL&descAlignY=58&descSize=18" alt="Pooya Golchian" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Pooya%20Golchian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Forward-Deployed%20Engineer%20%C2%B7%20AI%20Transformation%20for%20Fintech%20%C2%B7%20Payments%20%C2%B7%20BNPL&descAlignY=58&descSize=18" alt="Pooya Golchian" width="100%" />
 
 <a href="https://pooyagolchian.com/">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=808080&center=true&vCenter=true&width=760&lines=Forward-Deployed+Engineer+%C2%B7+Dubai+%F0%9F%87%A6%F0%9F%87%AA;AI+Transformation+Lead+at+Cashew+Payments+%26+Hazelpay;Fintech+%C2%B7+BNPL+%C2%B7+Merchant+%26+Healthcare+Financing;Designing+AI+operating+systems+for+regulated+businesses;Agents+do+the+work.+Evals+keep+them+honest." alt="What I do" />
