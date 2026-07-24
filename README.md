@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Pooya%20Golchian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Forward-Deployed%20Engineer%20%C2%B7%20AI%20Transformation%20for%20Fintech%2C%20Payments%20%26%20BNPL&descAlignY=58&descSize=18" alt="Pooya Golchian" width="100%" />
 
 <a href="https://pooyagolchian.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=808080&center=true&vCenter=true&width=720&lines=Forward-Deployed+Engineer+%C2%B7+Dubai+%F0%9F%87%A6%F0%9F%87%AA;AI+Transformation+for+Fintech%2C+Payments+%26+BNPL;Healthcare+Financing+%C2%B7+Merchant+Finance+%C2%B7+Agentic+Automation;Designing+AI+Operating+Systems+for+regulated+businesses;Building+with+agents.+Evals+keep+them+honest.;At+Cashew+Payments+%26+Hazel" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=808080&center=true&vCenter=true&width=760&lines=Forward-Deployed+Engineer+%C2%B7+Dubai+%F0%9F%87%A6%F0%9F%87%AA;AI+Transformation+Lead+at+Cashew+Payments+%26+Hazelpay;Fintech+%C2%B7+BNPL+%C2%B7+Merchant+%26+Healthcare+Financing;Designing+AI+operating+systems+for+regulated+businesses;Agents+do+the+work.+Evals+keep+them+honest." alt="What I do" />
 </a>
 
 <br/>
@@ -27,14 +27,15 @@
 
 ## 👋 About
 
-**Forward-Deployed Engineer · AI Transformation for Fintech, Payments & BNPL.** I help regulated businesses turn AI into **shipped operating capability** — not pilots. I work close to the real workflow — business, product, compliance, operations, and engineering — scoping the problem, designing the delivery motion, building the first production path, and staying involved until the system is reliable, measurable, and safe to run.
+**Forward-Deployed Engineer · AI Transformation for Fintech, Payments & BNPL.** I help regulated businesses turn AI into **shipped operating capability** — not pilots. As a forward-deployed engineer I embed **inside the customer's environment** and own the full deployment arc — discovery, integration, production build, and operations — meeting stakeholders from **line analysts to CTOs**, wiring into real **APIs, data pipelines, and enterprise constraints (SSO/SAML/OAuth, legacy systems, compliance)**, and staying on the problem with **radical ownership** until the system is reliable, measurable, and safe to run.
 
-My current focus is **fintech AI transformation**: **payments, BNPL, merchant financing, and healthcare financing**. I bring that delivery model into the real operating environment of **Cashew Payments** and **Hazelpay**, where AI has to support regulated workflows, customer journeys, approvals, orchestration, and automation with clear business outcomes.
+I'm a **Forward-Deployed Engineer at [Technova Solutions (Codenovai)](https://www.codenovai.com/)** and **Lead, AI Transformation at [Cashew Payments](https://www.cashewpayments.com/en) and [Hazelpay](https://hazelpay.ai/)** — Dubai-based fintechs building **BNPL, merchant financing, and healthcare financing** in the UAE. There, AI has to support regulated workflows, customer journeys, credit approvals, orchestration, and automation with clear business outcomes — every agent shipped behind evals, observability, and a human boundary.
 
 > **Agents do the heavy lifting. Evals keep them honest. Senior engineering holds the boundary.**
 
-- 🚀 **Forward-Deployed Delivery** — prototypes, production MVPs, and enterprise AI systems built in the field, not in isolation
-- 🤖 **Fintech & Payments AI** — AI workflow design for **BNPL**, **merchant financing**, **healthcare financing**, and digital finance operations
+- 🚀 **Forward-Deployed Delivery** — customer-embedded engineering: prototypes, production MVPs, and enterprise AI systems built in the field, not in isolation
+- 🤖 **Fintech & Payments AI** — AI workflow design for **BNPL**, **merchant financing**, **healthcare financing**, credit decisioning, KYC, and digital finance operations
+- 🔌 **Integration & Solution Engineering** — **REST/GraphQL API integration**, data pipelines, third-party & core-banking connectors, and SaaS customization inside messy enterprise stacks
 - ⚙️ **Agentic Automation** — **multi-agent orchestration**, role design, **tool/MCP servers**, AI copilots, workflow automation, and internal operating systems
 - ♻️ **AIDLC** — the eight-phase AI Development Lifecycle used to move from framed problem to operated, eval-guarded production systems
 - 🧪 **Production AI Systems** — RAG, evaluation frameworks, observability, operating metrics, and cost-aware deployment
@@ -43,7 +44,7 @@ My current focus is **fintech AI transformation**: **payments, BNPL, merchant fi
 
 ### Search-friendly role keywords
 
-**Forward-Deployed Engineer**, **AI Transformation Leader**, **Fintech AI Engineer**, **Payments AI**, **BNPL AI**, **Healthcare Financing AI**, **Digital Finance Automation**, **Agentic Software Engineer**, **Enterprise AI MVP Builder**, **UAE Fintech AI**, **Dubai AI Engineer**, **AI Automation for Payments**, **AI Product Engineer**, **MCP & Agentic Systems**, **Sovereign AI**, **Local LLM / Ollama**, **On-Prem AI Deployment**, **AI Engineering Leadership**
+**Forward-Deployed Engineer (FDE)**, **Forward Deployed Software Engineer**, **Customer-Facing Engineer**, **Solutions / Deployment Engineer**, **Field / Embedded Engineer**, **AI Transformation Lead**, **AI Transformation Leader**, **Fintech AI Engineer**, **Payments AI**, **BNPL AI**, **Merchant Financing AI**, **Healthcare Financing AI**, **Credit Decisioning & KYC AI**, **Digital Finance Automation**, **Enterprise AI Integration**, **API / Data Pipeline Integration**, **RAG & Agent Orchestration**, **LLM Evaluation Engineer**, **Prompt Engineering**, **Agentic Software Engineer**, **Enterprise AI MVP Builder**, **UAE Fintech AI**, **Dubai AI Engineer**, **AI Automation for Payments**, **AI Product Engineer**, **MCP & Agentic Systems**, **Sovereign / Private AI**, **PDPL · DIFC · SOC 2 Compliant AI**, **Local LLM / Ollama**, **On-Prem AI Deployment**, **AI Engineering Leadership**, **Cashew Payments**, **Hazelpay**, **Technova / Codenovai**
 
 ---
 
@@ -74,15 +75,15 @@ My current focus is **fintech AI transformation**: **payments, BNPL, merchant fi
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Where I Work & What I'm Building
 
-| Venture | What it is |
-| --- | --- |
-| 💳 **[Cashew Payments](https://www.cashewpayments.com/en)** | **BNPL / digital financing platform** — helping customers access flexible payment options and helping merchants deliver frictionless financing experiences across digital finance journeys. |
-| 🏥 **[Hazelpay](https://hazelpay.ai/)** | **Healthcare financing platform** — enabling patients to pay over time while clinics receive funds upfront; a strong example of AI-enabled customer finance and workflow orchestration in a regulated environment. |
-| ⚙️ **[Technova Solutions / Codenovai](https://www.codenovai.com/)** | Dubai-based **AI transformation + automation agency** that designs and operates AI systems for real business workflows, including payments, operations, and enterprise automation. |
-| 🧾 **[Hisabi.ai](https://hisabi.ai/)** | **AI Accountant** — invoicing, books, VAT & payroll for any country. Speak, snap, type, or paste to generate invoices in seconds. ~150 countries, any ISO-4217 currency, bilingual EN/AR for the GCC. |
-| 🌐 **[pooyagolchian.com](https://pooyagolchian.com/)** | Writing & playbooks on **forward-deployed AI**, **agentic engineering**, **AIDLC**, and building production AI systems that survive the real world. |
+| Company / Project | My role | What it is |
+| --- | :-- | --- |
+| 💳 **[Cashew Payments](https://www.cashewpayments.com/en)** | **Lead, AI Transformation** | UAE **BNPL / all-in-one digital financing platform** — flexible installments on larger purchases across healthcare, education, automotive, wellness & home improvement, approved in minutes. I lead AI across credit journeys, approvals, orchestration & automation. |
+| 🏥 **[Hazelpay](https://hazelpay.ai/)** | **AI Transformation** | UAE **healthcare financing platform** (a Cashew Technology product, powered by Mashreq): *patients pay monthly, clinics get paid today* — dental, LASIK, fertility, cosmetic, MedSpa & hair. AI-driven origination and clinic-side workflow orchestration in a regulated environment. |
+| ⚙️ **[Technova Solutions / Codenovai](https://www.codenovai.com/)** | **Forward-Deployed Engineer** | Dubai **agent-native software studio** — *not a consultancy, a studio that ships.* Agentic AI (Claude Agent Skills, MCP, AWS Strands) with evals, review gates & audit logs; private/sovereign AI + RAG for regulated GCC businesses. |
+| 🧾 **[Hisabi.ai](https://hisabi.ai/)** | **Builder & Maintainer** | **AI Accountant** — invoicing, books, VAT & payroll for any country. Speak, snap, type, or paste to generate invoices in seconds. ~150 countries, any ISO-4217 currency, bilingual EN/AR for the GCC. |
+| 🌐 **[pooyagolchian.com](https://pooyagolchian.com/)** | **Author** | Writing & playbooks on **forward-deployed AI**, **agentic engineering**, **AIDLC**, and building production AI systems that survive the real world. |
 
 ---
 
@@ -256,7 +257,7 @@ Notes on the agentic era — AIDLC, evals, and how engineering roles are changin
 
 ## 🤝 Let's Build
 
-Open to **forward-deployed AI engineering**, **fintech AI transformation**, **BNPL / payments AI**, **healthcare financing automation**, **agentic systems**, and **fractional AI engineering leadership**.
+Open to **forward-deployed / solutions engineering**, **fintech AI transformation**, **BNPL / payments AI**, **healthcare financing automation**, **enterprise AI integration**, **agentic systems**, and **fractional AI engineering leadership**.
 
 [![Website](https://img.shields.io/badge/Website-pooyagolchian.com-0A0A0A?style=flat-square&logo=astro&logoColor=white)](https://pooyagolchian.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pooyagolchian-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooyagolchian/)
