@@ -168,7 +168,7 @@ I'm a **Forward-Deployed Engineer at [Technova Solutions (Codenovai)](https://ww
 Libraries I publish and maintain on npm — currency primitives, Vue/Nuxt UI & theming, CSS tooling, and local-LLM hooks. Versions and download counts below are live and auto-refreshed weekly.
 
 <!-- NPM-PACKAGES:START -->
-<div align="center"><sub><b>7 packages</b> · ~54K downloads / year on npm · published under <a href="https://www.npmjs.com/~pooya"><code>pooya</code></a></sub></div>
+<div align="center"><sub><b>7 packages</b> · ~58K downloads / year on npm · published under <a href="https://www.npmjs.com/~pooya"><code>pooya</code></a></sub></div>
 
 **🤖 AI / Agentic**
 
